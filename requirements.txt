@@ -3,3 +3,4 @@ numpy
 pandas
 datetime
 finance-datareader
+bs4
